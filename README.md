@@ -17,9 +17,9 @@ Link do repositório da API: https://github.com/rdsbojac/MEU-API
   
   ## Demonstração Aqui estão alguns prints das telas do aplicativo:
 
-  ### Tela Inicial ![tela inicial](app/src/main/res/drawable/tela_inicial.jpeg)
+  ## Tela Inicial ![tela inicial](app/src/main/res/drawable/tela_inicial.jpeg)
 
-  ### Tela de Informações do Filme e similares ![tela de informações e similares](app/src/main/res/drawable/tela_info_similares.jpeg)
+  ## Tela de Informações do Filme e similares ![tela de informações e similares](app/src/main/res/drawable/tela_info_similares.jpeg)
 
   ## Como Executar
   
