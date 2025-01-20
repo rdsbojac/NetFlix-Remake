@@ -13,7 +13,9 @@
 Uma API foi criada e utilizada para alimentar o catálogo de filmes do aplicativo, utilizando JavaScript e Express. Essa API permite a obtenção e gerenciamento dos dados dos filmes exibidos no aplicativo.
 Link do repositório da API: https://github.com/rdsbojac/MEU-API
 
-  ## Tecnologias Utilizadas - Kotlin - Android Studio ## Demonstração Aqui estão alguns prints das telas do aplicativo:
+  ## Tecnologias Utilizadas - Kotlin - Android Studio 
+  
+  ## Demonstração Aqui estão alguns prints das telas do aplicativo:
 
   ### Tela Inicial ![tela inicial](app/src/main/res/drawable/tela_inicial.jpeg)
 
