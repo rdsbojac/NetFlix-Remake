@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name"> NetFlix Remake</string>
+    <string name="cast"> Elenco: %1$s</string>
+    <string name="similar"> Opções semelhantes </string>
+    <string name="description">Aqui terá a descrição do filme, fornecendo um resumo breve sobre a trama, personagens principais e o cenário onde a história se desenrola. Este espaço será usado para dar ao usuário uma ideia geral do que esperar, destacando os pontos principais da narrativa, como ação, drama ou comédia, sem revelar spoilers importantes. A descrição deve ser clara, concisa e instigante, para atrair a atenção do espectador</string>
+</resources>
