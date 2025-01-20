@@ -15,9 +15,9 @@ Link do repositório da API: https://github.com/rdsbojac/MEU-API
 
   ## Tecnologias Utilizadas - Kotlin - Android Studio ## Demonstração Aqui estão alguns prints das telas do aplicativo:
 
-  ### Tela Inicial ![tela_inicial](app/src/main/res/drawable)
+  ### Tela Inicial ![tela_inicial.jpeg](app/src/main/res/drawable)
 
-  ### Tela de Informações do Filme e similares ![tela_info_similares](app/src/main/res/drawable)
+  ### Tela de Informações do Filme e similares ![tela_info_similares.jpeg](app/src/main/res/drawable)
 
   ## Como Executar
   
